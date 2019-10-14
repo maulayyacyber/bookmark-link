@@ -5,6 +5,8 @@
 2. [INSTALL LAMP STACK (APACHE, MYSQL, PHP)](https://www.ostechnix.com/install-apache-mysql-php-lamp-stack-on-ubuntu-18-04-lts/)
 3. [ERROR WHEN UPDATE PHP ON MAC OS MOJAVE](https://github.com/liip/php-osx/issues/249)
 4. [How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
+5. [Install Linux, Nginx, MySQL, PHP (LEMP stack) in Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04)
+6. [How to Install and Configure PHP 7.0 or PHP 7.1 on Ubuntu 16.04](https://www.vultr.com/docs/how-to-install-and-configure-php-70-or-php-71-on-ubuntu-16-04)
 
 ### LARAVEL
 1. [DEPLOY LARAVEL PROJECT FROM GITHUB TO VPS (SERVER)](https://blog.nafies.id/web-server/deploy-project-laravel-dari-github-ke-vps/)
