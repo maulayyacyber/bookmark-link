@@ -14,3 +14,4 @@
 2. [ADDING CURRENT ACTIVE MENU ON LARAVEL)](https://laracasts.com/discuss/channels/laravel/adding-class-active-to-current-link-in-laravel-52?page=1)
 3. [SWEET ALERT ON LARAVEL](https://daengweb.id/sweet-alert-dan-flash-messages-laravel-54)
 4. [Youtube Channel Laravel 6 Bahasa indonesia](https://www.youtube.com/watch?v=ISK6o60cCQo&list=PL1aMeb5UP_PEHm9tJ9Rvy5gJ1ZkPbO8ND)
+5. [Youtube Channel Web Development Bahasa Indonesia](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
