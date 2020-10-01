@@ -17,4 +17,5 @@
 5. [Youtube Channel Web Development Bahasa Indonesia](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
 6. [Membuat Multi Auth di Laravel 7](https://www.kawankoding.id/membuat-fitur-multi-auth-di-laravel-7/)
 7. [Belajar Laravel Livewire : Menambahkan Data Tanpa Reload Halaman](https://www.kawankoding.id/belajar-laravel-livewire-menambahkan-data-tanpa-reload-halaman/)
+8. [Kumpulan Tutorial Laravel] (https://santrikoding.com/kategori/laravel)
  
