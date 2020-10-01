@@ -15,3 +15,4 @@
 3. [SWEET ALERT ON LARAVEL](https://daengweb.id/sweet-alert-dan-flash-messages-laravel-54)
 4. [Youtube Channel Laravel 6 Bahasa indonesia](https://www.youtube.com/watch?v=ISK6o60cCQo&list=PL1aMeb5UP_PEHm9tJ9Rvy5gJ1ZkPbO8ND)
 5. [Youtube Channel Web Development Bahasa Indonesia](https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg)
+6. [Membuat Multi Auth di Laravel 7](https://www.kawankoding.id/membuat-fitur-multi-auth-di-laravel-7/)
